@@ -1,5 +1,4 @@
 # test-lab2
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Balandina-o&theme=blue-green)
 
 
 <a href="https://github.com/Balandina-o/kyrsovaya2/graphs/contributors">
